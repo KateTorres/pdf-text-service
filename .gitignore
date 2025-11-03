@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+
+# Environment files
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Output and temporary folders
+outputs/
+temp/
+logs/
+
+# Test artifacts
+*.log
+*.tmp
+*.bak
+
+# System files (macOS / Windows)
+.DS_Store
+Thumbs.db
