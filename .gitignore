@@ -24,6 +24,8 @@ logs/
 *.log
 *.tmp
 *.bak
+*.pdf
+*.txt
 
 # System files (macOS / Windows)
 .DS_Store
